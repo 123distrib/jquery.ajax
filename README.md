@@ -1,4 +1,3 @@
-# jquery.ajax.js
 # How to use
 
 ```
