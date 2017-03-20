@@ -1,5 +1,5 @@
 (function($){
-	$.fn.pages = function(options) {
+	$.fn.ajax = function(options) {
 		
 		// default values
 		var defaults = { 
